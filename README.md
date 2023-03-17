@@ -4,7 +4,7 @@ Release contains the dll injector with the dll packed in.
 
 How to use:
 launch world of tanks
-launch pLoader.exe
+launch pLauncher.exe
 
 a menu should appear and you should hear the loaded sound.
 
